@@ -1,0 +1,6 @@
+[19-Sep-2020 21:47:34 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'autoadyu_root'@'localhost' (using password: YES) in /home/confbzyu/beaute-salon.life/admin.php on line 8
+[19-Sep-2020 21:47:34 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/confbzyu/beaute-salon.life/admin.php on line 11
+[19-Sep-2020 21:47:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/confbzyu/beaute-salon.life/admin.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/confbzyu/beaute-salon.life/admin.php on line 44
